@@ -1,7 +1,7 @@
 /*
     Program Name:   Seminole Weather Channel
-    Author: 
-    Date: 
+    Author: Michael Hanna
+    Date: November 23rd, 2016
     Filename:   apixu_forecast.js
 */
 
